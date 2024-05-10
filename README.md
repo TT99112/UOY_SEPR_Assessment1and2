@@ -1,5 +1,5 @@
 # UOY_SEPR_Assessment1and2
-Software Engineering Project for University of York Computer Science Stage 2 (2019-2020)
+Software Engineering Project for University of York Computer Science Stage 1 and 2 (2019-2020)
 
 ## Overview
 This repository contains the source code for the first assessment and second assessment of our software engineering project at the University of York. The project involves developing a game using Java and the LibGDX framework. The game challenges players to manage firetrucks strategically to defend the city from extraterrestrial threats.
